@@ -7,8 +7,8 @@ This repository contains the code and resources for the model used in the compet
 Before getting started, you'll need to clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/quantmask/CV_SVNIT.git
-cd CV_SVNIT
+git clone (https://github.com/Aho-Bakaa/NTIRE_Challenge)
+cd NTIRE_Challenge
 ```
 
 This will create a local copy of the repository and navigate to the project directory.
